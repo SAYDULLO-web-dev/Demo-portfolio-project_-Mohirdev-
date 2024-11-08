@@ -144,6 +144,10 @@
 }
 
 /*Core styles*/
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -153,7 +157,7 @@ a {
     transition: all 0.3s ease-in-out;
 }
 
-button{
+button {
     font-family: inherit;
     transition: all 0.3s ease-in-out;
 }
@@ -228,7 +232,7 @@ button{
     z-index: 10;
 }
 
-.main-header .container{
+.main-header .container {
     display: flex;
     align-items: center;
 }
@@ -330,7 +334,7 @@ button{
 
 @media only screen and (max-width: 991px) {
 
-    .container{
+    .container {
         width: 90%;
     }
 
@@ -354,5 +358,5 @@ button{
     .section-title {
         font-size: 1.4rem;
     }
-    
+
 }
