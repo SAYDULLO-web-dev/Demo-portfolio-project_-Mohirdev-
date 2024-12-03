@@ -42,9 +42,10 @@ This is a demo portfolio project created as part of the **Front-End Development*
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SAYDULLO-web-dev/portfolio-demo.git
+   git clone https://github.com/SAYDULLO-web-dev/Demo-portfolio-project_-Mohirdev-.git
+   
 
- 2. Open the index.html file in your web browser to view the website.
+2. Open the index.html file in your web browser to view the website.
 
     
  🌟 Sections Overview
